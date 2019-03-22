@@ -1,1 +1,1 @@
-this is mypackage 1.0
+this is mypackage 1.1
