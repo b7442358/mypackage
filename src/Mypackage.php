@@ -13,4 +13,8 @@ class Mypackage
     {
         echo 'this is test2 methond';
     }
+    public function test3()
+    {
+        echo 'this is test3';
+    }
 }
