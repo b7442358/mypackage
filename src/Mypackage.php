@@ -8,4 +8,9 @@ class Mypackage
     {
         return 'this is composer mypackage test';
     }
+
+    public function test2()
+    {
+        echo 'this is test2 methond';
+    }
 }
