@@ -1,0 +1,12 @@
+{
+    "name": "b7442358/mypackage",
+    "description": "this is two package",
+    "type": "library",
+    "license": "Apache-2.0",
+    "require": {},
+    "autoload":{
+        "psr-4": {
+            "b7442358\\composer\\": "src/"
+        }
+    }
+}
