@@ -1,6 +1,6 @@
 {
     "name": "b7442358/mypackage",
-    "description": "this is two package",
+    "description": "this is second package",
     "type": "library",
     "license": "Apache-2.0",
     "require": {},
