@@ -6,7 +6,7 @@
     "require": {},
     "autoload":{
         "psr-4": {
-            "b7442358\\composer\\": "src/"
+            "b7442358\\mypackage\\": "src/"
         }
     }
 }
