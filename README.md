@@ -1,1 +1,1 @@
-this is mypackage v2.0-alpha
+this is mypackage v1.2dev
