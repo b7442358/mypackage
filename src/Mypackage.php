@@ -21,4 +21,8 @@ class Mypackage
     {
         echo 'this is test4';
     }
+    public function test5()
+    {
+        echo 'this is test alpha';
+    }
 }
